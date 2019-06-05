@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rohit0809/chat-app-socket-io#readme",
   "dependencies": {
+    "bad-words": "^3.0.2",
     "express": "^4.17.1",
     "socket.io": "^2.2.0"
   },
