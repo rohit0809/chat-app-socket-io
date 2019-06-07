@@ -1,0 +1,5 @@
+--> Implemented using Web Socket.io and Node.js
+--> Multiple users can join a Single Chat room and send messages and their current location over a persistent Internet connection
+--> Bi-Directional Connection is established between Server and Client
+--> Mustache and Momentjs libraries are used to render DOM elements and format time-location properties respectively.
+--> Autoscrolling feature is also added for new incoming messages.
